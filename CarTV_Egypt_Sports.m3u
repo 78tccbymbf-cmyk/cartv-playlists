@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Al Kahera News" group-title="🇪🇬 مصر - أخبار",Al Kahera News
+https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
+#EXTINF:-1 tvg-id="Alkass One" group-title="⚽ رياضة - بث عام",Alkass One
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1muytrdc/master.m3u8
+#EXTINF:-1 tvg-id="Alkass Two" group-title="⚽ رياضة - بث عام",Alkass Two
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hefazq/master.m3u8
+#EXTINF:-1 tvg-id="Alkass Three" group-title="⚽ رياضة - بث عام",Alkass Three
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vakazq/master.m3u8
+#EXTINF:-1 tvg-id="Alkass Four" group-title="⚽ رياضة - بث عام",Alkass Four
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4azq/master.m3u8
